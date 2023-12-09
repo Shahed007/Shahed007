@@ -26,4 +26,8 @@ constantly update and improve them to meet improved standards and requirements.
 
 ## 📈 Current status
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Shahed007}&theme={monokai}
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Shahed007&theme=violet-punch" alt="GitHub Streak">
+  </a>
+</p>
