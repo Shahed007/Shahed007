@@ -9,7 +9,7 @@ CSS, HTML5 and CSS3. Actively learning Next.js and TypeScript, I focus on
 improving my design skills every day. With three completed projects, I
 constantly update and improve them to meet improved standards and requirements.
 
-## ⚙ All the technologies I am currently working on
+## 💻 All the technologies I am currently working on
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -30,4 +30,17 @@ constantly update and improve them to meet improved standards and requirements.
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Shahed007&theme=violet-punch" alt="GitHub Streak">
   </a>
+</p>
+
+
+## 📪 Rich me out
+
+<p align="center">
+<a href="https://www.facebook.com/shahed.king.771/">
+<img src="./images/facebok.png" alt="facebook" />
+</a> 
+ <a href="www.linkedin.com/in/md-shahed">
+<img src="./images/linkedin.png" alt="facebook" />
+</a>
+
 </p>
