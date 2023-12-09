@@ -1,5 +1,5 @@
 <a href="www.linkedin.com/in/md-shahed">
-<img  src="./images/bacground-image.png" alt="background image" />
+<img style="width: 100%"  src="./images/bacground-image.png" alt="background image" />
 </a>
 
 ## ⚒ What I am currently working on
