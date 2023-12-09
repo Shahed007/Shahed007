@@ -22,3 +22,8 @@ constantly update and improve them to meet improved standards and requirements.
     <img src="https://skillicons.dev/icons?i=tailwind,html,css,github" alt="My Skills">
   </a>
 </p>
+
+
+## 📈 Current status
+
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Shahed007}&theme={monokai}
