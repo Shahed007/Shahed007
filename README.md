@@ -1,5 +1,3 @@
-<div style="position: relative;">
-<img  src="./images/bacground-image.gif" alt="background image" />
-
-<p style="margin-top: -200px; margin-left: 100px;">image</p>
-</div>
+<a href="www.linkedin.com/in/md-shahed">
+<img  src="./images/bacground-image.png" alt="background image" />
+</a>
