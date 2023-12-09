@@ -1,5 +1,5 @@
-![An old rock in the desert](/images/bacground-image.gif)
+<div style="position: relative;">
+<img  src="./images/bacground-image.gif" alt="background image" />
 
-<div>
-<img src="./images/bacground-image.gif" alt="background image" />
+<p style="margin-top: -200px; margin-left: 100px;">image</p>
 </div>
