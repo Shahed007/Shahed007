@@ -115,23 +115,86 @@ const shahed = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/Shahed007/Shahed007/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-> ⚙️ **To activate the snake:** Go to your GitHub profile repo → Actions → Enable workflows → The snake will auto-generate from your contributions.
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=Shahed007&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shahed007/Shahed007/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shahed007/Shahed007/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Shahed007/Shahed007/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+> 👇 **Snake not showing? Follow these steps to activate it:**
+>
+> 1. Go to your profile repo `Shahed007/Shahed007`
+> 2. Create folder `.github/workflows/`
+> 3. Add the file `snake.yml` provided below
+> 4. Go to **Actions tab** → Click **"I understand my workflows, enable them"**
+> 5. Run the workflow manually once — snake will appear! ✅
+
+---
+
+## 🎮 Interactive Games & Fun
+
+> 🕹️ **Play games directly on my GitHub profile — no install needed!**
+
+---
+
+### ♟️ Chess — Play Against Me!
+
+[![Chess](https://img.shields.io/badge/♟️%20Play%20Chess%20With%20Me-black?style=for-the-badge&logo=lichess&logoColor=white)](https://github.com/Shahed007/Shahed007/issues/new?title=chess%3A+move+e2+e4&body=Make+your+move+by+opening+an+issue+with+title+%60chess%3A+FROM+TO%60+%28e.g.+%60chess%3A+e7+e5%60%29)
+
+> Open an issue with the title format: `chess: e7 e5` to make your move!
+> Powered by [github-chess](https://github.com/timburgan/timburgan)
+
+---
+
+### 🎯 2048 — Play the Classic Game!
+
+[![2048](https://img.shields.io/badge/🎯%20Play%202048-orange?style=for-the-badge)](https://github.com/Shahed007/Shahed007/issues/new?title=2048%3A+move+up&body=Make+a+move%3A+up+%7C+down+%7C+left+%7C+right)
+
+> Open an issue with title: `2048: up` / `2048: down` / `2048: left` / `2048: right`
+
+---
+
+### 🎲 Fun Developer Facts
+
+<div align="center">
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true)
+
+</div>
+
+---
+
+### 💬 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+### 🌐 WakaTime Coding Activity
+
+<div align="center">
+
+[![wakatime](https://wakatime.com/badge/user/Shahed007.svg?style=for-the-badge)](https://wakatime.com/@Shahed007)
 
 </div>
 
@@ -146,14 +209,9 @@ const shahed = {
 > ### *"Code is not just syntax — it's the bridge between imagination and reality."*
 
 **I'm open to freelance projects, collaborations & exciting opportunities.**
-Have an idea or just want to talk tech? Let's connect! 🚀
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shahed)
 [![Facebook](https://img.shields.io/badge/Follow%20on%20Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/shahed.king.771/)
-
-<br/>
 
 </div>
 
