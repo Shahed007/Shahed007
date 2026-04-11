@@ -137,14 +137,6 @@ const shahed = {
 
 </div>
 
-> 👇 **Snake not showing? Follow these steps to activate it:**
->
-> 1. Go to your profile repo `Shahed007/Shahed007`
-> 2. Create folder `.github/workflows/`
-> 3. Add the file `snake.yml` provided below
-> 4. Go to **Actions tab** → Click **"I understand my workflows, enable them"**
-> 5. Run the workflow manually once — snake will appear! ✅
-
 ---
 
 ## 🎮 Interactive Games & Fun
