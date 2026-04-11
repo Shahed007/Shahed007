@@ -24,7 +24,7 @@ const shahed = {
   name      : "MD Shahed",
   role      : "Lead Full Stack Developer",
   company   : "Betopeagroup 🏢",
-  tenure    : "June 2024 → Present (~1yr 10mo)",
+  tenure    : "June 2024 → Present (~2yr +)",
   location  : "Bangladesh 🇧🇩",
   languages : ["JavaScript", "TypeScript"],
   frontend  : ["React.js", "Next.js", "Tailwind CSS"],
