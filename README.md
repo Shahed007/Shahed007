@@ -47,7 +47,7 @@ const shahed = {
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║   🏢  BETOPEAGROUP                                           ║
-║   💼  Lead Full Stack Developer                              ║
+║   💼  Full Stack Developer                              ║
 ║   📅  June 2024 – Present        ⏳ ~2 Year +       ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
